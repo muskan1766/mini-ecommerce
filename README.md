@@ -1,4 +1,4 @@
-# 🛒 My Mini E-Commerce Store
+## 🛒 My Mini E-Commerce Store
 
 A simple and interactive mini e-commerce website built using HTML, CSS, and JavaScript.
 
@@ -22,4 +22,8 @@ A simple and interactive mini e-commerce website built using HTML, CSS, and Java
 
 • Clone the repository  
 • Open `index.html` in your browser  
+
+## 🔗 Live Demo
+• https://muskan1766.github.io/mini-ecommerce/
+
 
