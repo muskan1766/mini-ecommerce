@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Cart</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header class="main-header">
+    <h1>My Cart</h1>
+  </header>
+
+  <div id="cart-container">
+    <!-- Cart items will load here -->
+  </div>
+
+  <!-- ✅ ADD THIS LINE -->
+  <h3 id="total-price"></h3>
+  <div class="cart-actions">
+    <button onclick="clearCart()">Clear Cart</button>
+    <a href="index.html" class="continue-btn">Continue Shopping</a>
+    <a href="checkout.html" class="continue-btn">Proceed to Checkout</a>
+  </div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
