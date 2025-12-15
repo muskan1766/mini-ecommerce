@@ -24,6 +24,6 @@ A simple and interactive mini e-commerce website built using HTML, CSS, and Java
 • Open `index.html` in your browser  
 
 ## 🔗 Live Demo
-• https://muskan1766.github.io/mini-ecommerce/
+  https://muskan1766.github.io/mini-ecommerce/
 
 
